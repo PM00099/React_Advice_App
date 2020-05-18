@@ -114,3 +114,11 @@ body {
     height: 70%;
   }
 }
+
+@media(prefers-color-scheme:dark){
+	.card{
+		background-color:#222f3e;
+		color:white;
+		opacity:0.8;
+}
+}
